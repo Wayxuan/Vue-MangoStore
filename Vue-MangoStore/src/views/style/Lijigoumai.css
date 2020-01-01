@@ -1,0 +1,141 @@
+html{overflow-x: hidden;}
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table
+,fieldset,legend,figure,figcaption{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; } 
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+em,i,address{font-style: normal;}
+body{ font-family:"微软雅黑";font-size:12px;}
+input,a{outline:none;}
+
+.Lijigoumai{
+    
+    overflow: hidden;
+    
+
+}
+.Lijigoumai_headerbj{
+    width: 100%;
+    background: #fff;
+    border-bottom: 2px solid #333;
+}
+.Lijigoumai_header{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 30px;
+    line-height:1;
+    overflow: hidden;
+}
+.Lijigoumai_header img,h3{
+    float: left;
+}
+.Lijigoumai_header h3{
+    margin-top: 38px;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.Lijigoumai_header img{
+    height: 38px;
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.Lijigoumai_count{
+    width: 1200px;
+    margin:  0 auto;
+    border: 1px solid #333;
+    background: #fff;
+    margin-top: 30px;
+}
+.Lijigoumai_count1{
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    line-height: 44px;
+    padding-left: 35px;
+}
+.Lijigoumai_count2{
+    width: 260px;
+    height: 139px;
+    border: 5px solid #eeeeee;
+    margin-left: 29px;
+    margin-bottom: 20px;
+}
+.Lijigoumai_count2 a{
+    color: #3399cc;
+    line-height: 139px;
+    margin-left: 110px;
+}
+.Lijigoumai_count3{
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    padding-left: 29px;
+}
+.Lijigoumai_count4{
+    border-bottom: 1px solid #333;
+    line-height: 30px;
+    margin: 0 20px;
+}
+.Lijigoumai_count4 th{
+    width: 180px;
+    font-size: 12px;
+    color: #333;
+    font-weight: 500;
+}
+.Lijigoumai_count4 .th1{
+    width: 383px;
+}
+.Lijigoumai_count5{
+    overflow: hidden;
+    margin: 0 20px;
+    border: 1px solid #333;
+}
+.Lijigoumai_count5 img{
+    width: 40px;
+}
+.Lijigoumai_count5 th{
+    width: 180px;
+    font-size: 12px;
+    color: #333;
+    font-weight: 500;
+}
+.Lijigoumai_count5 table .th1{
+    width: 383px;
+}
+.Lijigoumai_count5 table .th1 img{
+    float: left;
+    padding-left: 20px;
+}
+.Lijigoumai_count5 table .th1 span{
+    float: left;
+    margin-left: 10px;
+    line-height: 42px;
+}
+.Lijigoumai_count5 .byou{
+    line-height: 30px;
+    background: #333;
+    overflow: hidden;
+    color: #fff;
+}
+.Lijigoumai_count5 .byou span{
+    float: right;
+    margin-right: 20px;
+}
+.ljm {
+    margin-top: 10px;
+    overflow: hidden;
+}
+.ljm button{
+    width: 180px;
+    height: 50px;
+    background: #333;
+    color: #fff;
+    border: none;
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

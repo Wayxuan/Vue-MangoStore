@@ -1,0 +1,116 @@
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; } 
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+body{ font-family:"微软雅黑";font-size:12px;}
+input,a{outline:none;}
+body{
+    background: #fff !important;
+}
+.person_header{
+    width: 100%
+}
+.person_countbj{
+    width: 100%;
+    background: #fff;
+}
+.person_count{
+    width: 1200px;
+    margin: 0 auto;
+    height: 84px;
+    overflow: hidden;
+}
+.person_count h1{
+    float: left;
+    height: 84px;
+    margin-top: 0px;
+}
+.person_count h1 img{
+    height: 44px;
+    margin-top: 0px;
+
+    margin-top: 18px
+}
+.person_count .com{
+    width: 96px;
+    float: left;
+    margin-top: 26px;
+    margin-left: 14px
+
+}
+.person_count .com p{
+    line-height: 1;
+    color:#333;
+    font-size: 16px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.person_count .com .p1{
+    display: flex;
+    justify-content: space-between
+}
+.person_count .com p:nth-child(2){
+    font-size: 10px;
+    margin-top: 10px
+}
+.person_count .rob{
+    float: left;
+    margin-left: 450px;
+    margin-top: 26px;
+}
+.person_count .rob a{
+    display: inline-block;
+    font-size: 16px;
+    width: 110px;
+    height: 30px;
+}
+.person_count .rob a:nth-child(1){
+    background: url(../../assets/date2.png) no-repeat left center;
+    background-size: 30px 30px;
+}
+.person_count .rob #a2{
+    background: url(../../assets/seckill.png) no-repeat left center;
+    background-size:30px 30px;
+}
+.person_count .rob #a3{
+    background: url(../../assets/quality.png) no-repeat left center;
+    background-size:30px 30px;
+}
+.person_count .rob b{margin-left: 30px;line-height: 30px;}
+.person_count .rob span{
+    margin: 0 14px;
+}
+.navbj{
+    background: #fff;
+    overflow: hidden;
+    width: 100%;
+    height: 38px;
+    border-bottom: 2px solid #333;
+}
+.nav{
+    width: 1200px;
+    margin:  0 auto;
+
+}
+#nav_my,#nav_ac,#nav_ad{
+    float: left;
+    font-size: 14px;
+    color: #333;
+    padding: 0 24px;
+    line-height:38px;
+    border-radius: 10px 10px 0px 0px;
+    -webkit-border-radius: 10px 10px 0px 0px;
+    -moz-border-radius: 10px 10px 0px 0px;
+    -ms-border-radius: 10px 10px 0px 0px;
+    -o-border-radius: 10px 10px 0px 0px;
+}
+#nav_my:hover{
+    color:#ccc
+}
+#nav_ac:hover{
+    color:#ccc
+}
+#nav_ad:hover{
+    color:#ccc
+}

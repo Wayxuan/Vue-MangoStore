@@ -1,0 +1,47 @@
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; } 
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+body{ font-family:"微软雅黑";font-size:12px;}
+input,a{outline:none;}
+.Mymango,.Account{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    overflow:hidden
+}
+.left{
+    background: #fff;
+    width: 200px;
+    float: left;
+    border: 1px  solid #333;
+}
+.left ul li{
+    height: 54px;
+    border-top: 1px #e2e2e2 dotted;
+    line-height: 54px;
+    margin: 0 15px;
+    text-align: left;
+    padding-left: 26px;
+}
+.left ul .dingdan{
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+}
+.left ul .dingdan2{
+    font-size:12px;
+    padding-left: 40px;
+    border: none;
+    height: 44px;
+}
+
+
+
+
+.right{
+    float: right;
+    width: 978px;
+}

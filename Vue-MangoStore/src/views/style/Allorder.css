@@ -1,0 +1,26 @@
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; } 
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+body{ font-family:"微软雅黑";font-size:12px;}
+input,a{outline:none;}
+
+.inquire2{
+    min-height: 40px;
+    border:1px solid #333;
+    background: #fff;
+}
+.inquire2 span{
+    font-size: 14px;
+    color:red;
+    margin-left: 38px;
+    margin-top: 10px;
+    width: 95px;
+    border-right: 1px solid;
+    display: inline-block;
+    height: 17px;
+    border-color: #333;
+    border-right-style: dashed;
+}

@@ -1,0 +1,94 @@
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; } 
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+body{ font-family:"微软雅黑";font-size:12px;}
+input,a{outline:none;}
+
+.Residue_header{
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid #333;
+}
+.overallb{
+    float: left;
+    width: 236px;
+    border-right: 1px solid #d3d3d3;
+    border-right-style: dashed;
+    background: url(../../assets/mygeren/a3.png) no-repeat 60px 50px;
+}
+.overallb h5{
+    font-size: 16px;
+    margin-top: 38px;
+    margin-left: 116px;
+    line-height: 28px;
+    position: relative;
+}
+.overallb h5 img{
+    position: absolute;
+    left:54px;
+    top: 0;
+}
+.overallb p{
+    font-size: 16px;
+    color: #ff4654;
+    margin-left: 116px;
+    line-height: 28px;
+    margin-bottom: 35px;
+}
+.overallb p span{
+    color: #666666;
+}
+.fund{
+    float: left;
+}
+.fund p{
+    margin-left: 92px;
+    font-size: 14px;
+    color:#333;
+    line-height: 30px;
+    position: relative;
+}
+.fund .fundt{
+    margin-top: 30px;
+}
+.fund p .fundt1{
+    position: absolute;
+    left: -29px;
+    top:4px;
+}
+.fund p .fundt2{
+    position: absolute;
+    right: 12px;
+    top: 2px;
+}
+.fund p .fundt3{
+    position: absolute;
+    right: -14px;
+    top: 2px;
+}
+.record{
+    border: 1px solid #333;
+    margin-top: 10px;
+}
+.deal{
+    background: #fff;
+    line-height: 41px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+    padding-left: 15px;
+}
+.thea{
+    display: flex;
+    justify-content: space-around;
+    background: #eeeeee;
+    border-top: 1px solid #333;
+}
+.thea span{
+    font-size: 12px;
+    color: #666666;
+    line-height: 44px;
+}

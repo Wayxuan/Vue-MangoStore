@@ -1,0 +1,28 @@
+.head {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.head-big {
+    border-bottom: 2px solid #2d2d2d
+}
+
+#logo {
+    height: 44px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#commodity_box {
+    margin: 20px auto 0;
+    width: 1200px;
+    border: 1px solid #2d2d2d;
+    border-radius: 5px;
+}
+
+#commodity_box tr:nth-child(1) {
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+    line-height: 30px;
+}

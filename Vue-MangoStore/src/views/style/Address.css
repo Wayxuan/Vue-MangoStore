@@ -1,0 +1,117 @@
+html{overflow-x: hidden;}
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table
+,fieldset,legend,figure,figcaption{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; } 
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+em,i,address{font-style: normal;}
+body{ font-family:"微软雅黑";font-size:12px;}
+input,a{outline:none;}
+body{
+    background: #f6f6f6;
+}
+
+.Address{
+    border: 1px solid #333;
+    overflow: hidden;
+}
+.Address_h{
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    line-height: 44px;
+    padding-left: 35px;
+    border-bottom: 1px solid #333;
+}
+.Address_wz{
+    overflow: hidden;
+    background: url(../../assets/mygeren/fangzi.png) no-repeat 29px 12px;
+}
+.Address_wz span{
+    line-height: 46px;
+}
+.Address_wz span:nth-child(1){
+    font-size: 14px;
+    color: #333;
+    margin-left: 59px;
+}
+.Address_wz span:nth-child(2){
+    font-size: 12px;
+    color: #777777;
+    margin-left: 16px;
+}
+.Address_wz span b{
+    color: #ff464e;
+}
+.newlys{
+    overflow: hidden;
+}
+.newly{
+    float: left;
+    width: 260px;
+    height: 139px;
+    border: 5px solid #eeeeee;
+    margin-left: 29px;
+    margin-bottom: 20px;
+}
+.newly p{
+    font-size: 12px;
+    color:#333;
+    padding-left: 40px;
+    margin-top: 10px;
+}
+.newly p:nth-child(1){
+    margin-top: 30px;
+}
+.newly a{
+    color: #3399cc;
+    line-height: 139px;
+    margin-left: 110px;
+}
+
+.newbiao{
+    background: #f2f2f2;
+    font-size: 12px;
+    color: #333;
+    overflow: hidden;
+    margin: 30px;
+}
+.newbiao p{
+    margin-left: 34px;
+    margin-top: 20px;
+}
+.newbiao p:nth-child(1) input{
+    width: 255px;
+    height: 28px;
+}
+.newbiao p:nth-child(2) input{
+    width: 200px;
+    height: 28px;
+}
+.newbiao p:nth-child(3) input{
+    width: 300px;
+    height: 28px;
+}
+.newbiao p:nth-child(4) input{
+    width: 608px;
+    height: 28px;
+}
+.newbiao p button{
+    width: 75px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+.newbiao p:nth-child(6) button:nth-child(1){
+    background: #333;
+    border: none;
+    color: #fff;
+}
+.newbiao p:nth-child(6) button:nth-child(2){
+    background: #f1f1f1;
+    border: none;
+    color: #333;
+    border: 1px solid #e3e3e3;
+    margin-left: 24px;
+}

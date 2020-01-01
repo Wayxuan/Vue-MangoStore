@@ -1,0 +1,254 @@
+body,
+ul,
+li,
+dl,
+dt,
+dd,
+p,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+img,
+table,
+fieldset,
+legend {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+li,
+ol {
+    list-style: none;
+}
+
+img,
+fieldset {
+    border: 0;
+}
+
+img {
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+
+body {
+    font-family: "微软雅黑";
+    font-size: 12px;
+}
+
+input,
+a {
+    outline: none;
+}
+
+.Mydd_header {
+    background: #fff;
+    height: 149px;
+    border: 1px solid #333
+}
+
+.Mydd_headerl {
+    float: left;
+    height: 100%;
+    overflow: hidden;
+    width: 496px;
+}
+
+.Mydd_headerl img {
+    float: left;
+    width: 80px;
+    height: 80px;
+    border: 3px solid #333;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.Mydd_headerl h3 {
+    float: left;
+    margin-top: 46px;
+    margin-left: 20px;
+}
+
+.Mydd_headerl h3 b {
+    font-size: 12px;
+    color: #3399cc;
+
+}
+
+.Mydd_headerl h3 span {
+    font-size: 10px;
+    margin-left: 4px;
+}
+
+.Mydd_headerl p {
+    float: left;
+    margin-top: 86px;
+    margin-left: -106px;
+}
+
+.Mydd_headerl .kuai {
+    margin-left: 4px;
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background: url(../../assets/cheng.png) no-repeat center center;
+}
+
+.Mydd_headerr {
+    height: 100%;
+    float: left;
+    width: 480px;
+}
+
+.Mydd_headerr .jif1,
+.jif2,
+.jif3,
+.jif4 {
+    float: left;
+    width: 239px;
+    height: 74px;
+}
+
+.Mydd_headerr .jif1,
+.jif2 {
+    border-left: 1px solid #333;
+    border-bottom: 1px solid #333;
+}
+
+.Mydd_headerr .jif3,
+.jif4 {
+    border-left: 1px solid #333;
+}
+
+.Mydd_headerr .jif1 {
+    line-height: 80px;
+    background: url(../../assets/jif.png) no-repeat 43px 22px;
+}
+
+.Mydd_headerr .jif2 {
+    line-height: 80px;
+    background: url(../../assets/youhuiquan.png) no-repeat 43px 22px;
+}
+
+.Mydd_headerr .jif1 span {
+    margin-left: 82px;
+    font-size: 12px;
+}
+
+.Mydd_headerr .jif2 span {
+    margin-left: 82px;
+    font-size: 12px;
+}
+
+.Mydd_headerr .jif3 span {
+    line-height: 80px;
+    margin-left: 98px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.Mydd_headerr .jif3 {
+    background: url(../../assets/mygeren/a1.png) no-repeat 72px 33px;
+}
+
+.Mydd_headerr .jif4 {
+    background: url(../../assets/mygeren/a2.png) no-repeat 78px 31px;
+}
+
+.Mydd_headerr .jif4 span {
+    line-height: 80px;
+    margin-left: 98px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.inquire {
+    margin-top: 20px;
+    min-height: 40px;
+    border: 1px solid #333;
+    background: #fff;
+}
+
+.inquire span {
+    font-size: 14px;
+    color: red;
+    margin-left: 38px;
+    margin-top: 10px;
+    width: 95px;
+    border-right: 1px solid;
+    display: inline-block;
+    height: 17px;
+    border-color: #333;
+    border-right-style: dashed;
+}
+
+.menu {
+    margin-top: 10px;
+    margin-left: 28px;
+}
+
+.menubox {
+  
+    overflow: hidden;
+    margin-top: 20px;
+    background: #fff;
+    background-size: 140px;
+    padding-bottom: 130px;
+}
+
+.menubox1 {
+    border: 1px solid #333333;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.menubox h4 {
+    width: 284px;
+    font-size: 18px;
+    height: 46px;
+    border-bottom: 1px solid #ccc;
+    margin-top: 122px;
+}
+
+.menubox h4 {
+    margin-left: 400px;
+}
+
+.menubox p {
+    margin-left: 407px;
+}
+
+.menubox p {
+    font-size: 12px;
+    color: #666666;
+    line-height: 32px;
+}
+
+.menubox p a {
+    color: #3399cc;
+}

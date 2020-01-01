@@ -1,0 +1,98 @@
+html{overflow-x: hidden;}
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table
+,fieldset,legend,figure,figcaption{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; } 
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;}
+em,i,address{font-style: normal;}
+body{ font-family:"微软雅黑";font-size:12px;}
+input,a{outline:none;}
+
+.Security{
+    overflow: hidden;
+    border: 1px solid #333;
+}
+.Security_t{
+    font-size: 14px;
+    color: #333;
+    padding-left: 34px;
+    line-height: 44px;
+    border-bottom: 1px solid #333;
+}
+.safetylevel{
+    font-size: 14px;
+}
+.safetylevel span{
+    color: #333;
+    float: left;
+    font-weight: bold;
+}
+.safetylevel span b{
+    color: #ff9a8d;
+}
+.safetylevel .xian{
+    float: left;
+    width: 300px;
+    height: 13px;
+    background: #ccc;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    margin-left: 6px;margin-top: 3px;
+    margin-bottom: 30px;
+}
+.safetylevel .xian .xian2{
+    width: 150px;
+    background: #ff7675;
+    height: 13px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.safetylevel{
+    overflow: hidden;
+    margin-top: 30px;
+    padding-left: 50px;
+    border-bottom: 1px solid #333;
+    
+}
+.modification{
+    margin: 0 48px;
+    overflow: hidden;
+    border-bottom: 1px dashed #cccccc;
+    line-height: 70px;
+    background: url(../../assets/mygeren/xiugai.png) no-repeat left center;
+}
+.modi{
+    margin-bottom: 60px;
+}
+.modification p,span{
+    float: left;
+
+}
+.modification p{
+    font-size: 14px;
+    color: #333;
+    padding-left: 42px;
+}
+.modification span{
+    font-size: 12px;
+    color: #999999;
+    margin-left: 10px;
+}
+.modification button{
+    float: right;
+    width: 74px;
+    height: 30px;
+    background: #333;
+    color: #fff;
+    border: none;
+    margin-right: 80px;
+    margin-top: 20px;
+}

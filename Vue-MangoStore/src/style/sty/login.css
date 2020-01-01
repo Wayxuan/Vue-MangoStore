@@ -1,0 +1,35 @@
+.loginPage {
+    width: 100%;
+    height: 100%;
+    background: black;
+    position: fixed;
+    z-index: 9999999;
+}
+
+.miss1 {
+    width: 24px;
+    height: 24px;
+    float: right;
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    background: #666;
+    line-height: 24px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-right: 5px
+}
+
+.miss2 {
+    width: 24px;
+    height: 24px;
+    float: right;
+    color: #fff;
+    font-size: 24px;
+    text-align: center;
+    background: #666;
+    line-height: 24px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-right: 5px
+}
