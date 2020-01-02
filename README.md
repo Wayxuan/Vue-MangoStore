@@ -21,8 +21,9 @@
 UI组件库：Element-UI / Bootstrap
 后端技术：Node+Express+Cheerio+Mongoose
 
-
-该项目采用前后端分离技术，前端使用Vue全家桶，项目整体框架使用vue-cli，后端使用express+cheerio+mongoose 进行后端业务处理及数据库操作。
+该项目采用前后端分离技术，前端使用Vue全家桶;
+该项目整体框架使用vue-cli;
+该项目后端使用express+cheerio+mongoose进行后端业务处理及数据库操作。
 
 ### 实现功能
 
