@@ -35,4 +35,3 @@
 [视频预览](https://www.bilibili.com/video/av81479550)
 
 #### 欢迎 Star ~ 
-项目周期八天，不完善之处，请见谅，加油~
